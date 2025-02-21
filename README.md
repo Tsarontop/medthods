@@ -1,9 +1,9 @@
 # Ranls Medthods
 -----------------
-# -1. SSBPS-1 
-# -2. SSBPS-2 
+# -1. SSBPS-1  - patched
+# -2. SSBPS-2 - patched
 # -3. Chat log - playerlist log 
 # -4. external spam                                                                                                                                                          
 # -5. Bed Spam  
-# -6. Client Crash - soon
+# -6. Client Crash - not too sure if this is patched yet
 -----------------
