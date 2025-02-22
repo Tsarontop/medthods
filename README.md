@@ -5,5 +5,5 @@
 # -3. Chat log - playerlist log 
 # -4. external spam                                                                                                                                                          
 # -5. Bed Spam  
-# -6. Client Crash - not too sure if this is patched yet
+# -6. Client Crash - patched
 -----------------
